@@ -1,0 +1,319 @@
+Section: Probability
+[1]- Basic Probability Formula
+[1]- Computing Expected values
+[1]- Frequency
+[1]- Events and their Complements
+
+ 
+
+Section: Probability - Combinatorics
+[1]- Fundamentals of combinatorics
+[1]- Permutation
+[1]- Factorials
+[1]- Variations with & without repetitions
+[1]- Symmetry of Combinations
+
+ 
+
+Section: Probability - Bayesian Inference
+[1]- Sets and Events
+[1]- Intersection of Sets
+[1]- Union of Sets
+[1]- Dependence and independence of Sets
+[1]- Conditional probability formula
+[1]- Additive rule
+[1]- Multiplicative rule
+[1]- Baye's law
+
+ 
+
+Section: Probability - Distributions
+[5, 2, 1]- Fundamentals of probability distributions
+[1]- Types of probability distributions
+[1]- Characteristics of discrete distributions
+[1]- Uniform distributions
+[1]- Bernoulli distributions
+[5, 1]- Binomial distributions
+[1]- Poisson distributions
+[1]- Characteristics of continuous distributions
+[2,1]- Standard normal distributions
+[1]- Student's T distributions
+[1]- Chi-Squared distributions
+[1]- Exponential distributions
+[1]- Logistic distributions
+
+ 
+
+
+Section: Part 3: Statistics
+[2,1]- Population and Sample
+
+ 
+
+Section: Statistics - Descriptive Statistics
+[1]- Types of Data
+[1]- Levels of measurements
+[1]- Categorical variables - Visualization techniques
+[1]- Frequency distribution table
+[2, 1]- Historgram
+[1]- Cross tables and Scatter plots
+[2,1]- Mean, median, and mode
+[1]- Skewness
+[2,1]- Standard Deviation and Variance
+[1]- Covariance
+[1]- Correlation coefficient
+[1]- Correlation
+
+ 
+
+Section: Statistics - Inferential Statistics Fundamentals
+[1]- Distribution
+[1]- Normal and Standard Normal distribution
+[2,1]- Central limit theorem
+[1]- Standard Error
+[1]- Estimators and Estimates
+
+ 
+
+Section: Statistics - Inferential Statistics: Confidence Intervals
+[1]- Confidence Intervals
+[1]- Student's T distribution
+[1]- Population variance, unknowns, and T scores
+[1]- Margin of error
+[1]- Two means: Dependent and independent samples
+
+ 
+
+
+Section: Statistics - Hypothesis Testing
+[2]- Mathematical Model
+[2,1]- Null vs alternative hypothesis
+[2] - P-values
+[1]- Rejection region and significance level
+[1]- Type 1 and Type 2 errors
+[1]- Population variance unknowns
+[1]- Mean, independent samples
+[1]- Mean, dependent samples
+
+ 
+
+
+Section: Part 4: Introduction to Python
+Section: Python - Variables and Data Types
+Section: Python - Basic Python Syntax
+Section: Python - Other Python Operators
+Section: Python - Conditional Statements
+Section: Python - Python Functions
+Section: Python - Sequences
+Section: Python - Iterations
+Section: Python - Advanced Python Tools
+Section: Part 5: Advanced Statistical Methods in Python
+
+ 
+
+
+Section: Advanced Statistical Methods - Linear Regression with StatsModels
+[2] - Logs
+[4]- Entropy
+[4]- Mutual Information
+[2, 4, 1]- Linear regression models
+[1]- Correlation Vs Regression
+[1]- Decomposition of variability
+[1]- R squared
+
+ 
+
+Section: Advanced Statistical Methods - Multiple Linear Regression with StatsModels
+[2, 4, 1]- Multiple linear regression
+[1]- Adjusted R squared
+[1]- F-test (Test for significance of models)
+[2]- T-tests and ANOVA
+[1]- OLS Assumptions
+[1]- Linearity
+[2]- Design matrices for Linear models
+[1]- Normality and Homoscedasticity
+[1]- Autocorrelation
+[1]- Multicolinearity
+[2]- Maximum Likelihood
+[2]- Odds and logs
+
+ 
+
+Section: Advanced Statistical Methods - Logistic Regression
+[1]- Logistic regression
+[1]- Logistic vs logit function
+[1]- Logistic regression tables
+[1]- Binary predictors
+[1]- Testing accuracy of models
+[1]- Underfitting and overfitting
+
+ 
+
+Section: Advanced Statistical Methods - Cluster Analysis
+[1]- Difference classification and clustering
+
+ 
+
+Section: Advanced Statistical Methods - K-Means Clustering
+[2]- Heirarchical clustering
+[1]- K Means clustering
+[1]- Clustering categorical data
+
+
+ 
+
+Section: Advanced Statistical Methods - Other Types of Clustering
+[1]- Types of clustering
+[1]- Dendrogam
+[1]- Heatmaps
+
+ 
+
+Section: Classification
+[2]- Decision and classification trees
+[2]- Regression trees
+[2]- Random Forests
+[3, 2]- Support Vector Machines
+[3]- Polynomial Kernel
+[3]- Radial Kernel
+
+ 
+
+ 
+
+Section: Part 6: Mathematics
+[6]- Essence of Linear Algebra
+[1]- Matrix
+[6, 1]- Scalars and Vectors
+[6]- Linear combinations, span, and basis vectors
+[6]- Linear Transformation and matrices
+[6]- Inverse matrices, column space, and null space
+[6]- Dot product and duality
+[6]- Cross products
+[6]- Change of basis
+[6]- Eigenvectors and Eigenvalues
+[6]- Abstract vector space
+[1]- Linear Algebra and Geometry
+[1]- Tensor
+
+ 
+
+[7]- Essence of calculus
+[7]- Derivatives
+[7]- Limits, L'Hopital's rule, epsilon delta
+[7]- Integration and fundamental theorem of calculus
+[7]- Higher order derivatives
+[7]- Taylor series
+
+ 
+
+
+Section: Deep Learning - Introduction to Neural Networks
+[8]- Neural Networks
+[1]- Training a models
+[1]- Types of machine learning
+[1]- Linear models
+[1]- Linear models with multiple inputs
+[1]- Graphical representation of neural networks
+[1]- Objective functions
+[1]- L2-norm loss
+[4, 1]- Cross-entropy loss
+[1]- 1- Parameter Gradient Descent & n-Parameter Gradient Descent
+[2]- Cross validation
+[2]- Confusion Matrix
+[2]- Sensitivity and specificity
+[2]- Bias and variance
+[2]- ROC and AUC
+[2]- Regularization
+[2]- Ridge vs Lasso regression
+[2]- Dimensionality reduction (Principal Component Analysis)
+[2]- Linear discriminant analysis
+[2]- MDS and PCoA
+[2]- t-SNE
+[2]- Chain rule
+[2]- Gradient descent
+
+ 
+
+
+Section: Deep Learning - Digging Deeper into NNs: Introducing Deep Neural Networks
+[1]- Deep Networks
+[1]- Non-linearities and their purpose
+[1]- Activation functions
+[8, 2, 1]- Backpropagation
+[2]- ReLU
+[2]- ArgMax and Softmax
+
+ 
+
+
+Section: Deep Learning - Overfitting
+[1]- Underfitting and overfitting
+[1]- Validation
+[1]- N-fold Cross validation
+
+ 
+
+Section: Deep Learning - Initialization
+[1]- Types of initialization
+[1]- Types of simple initialization
+[1]- (Xavier) Glorot initialization
+
+ 
+
+Section: Deep Learning - Digging into Gradient Descent and Learning Rate Schedules
+[8, 2, 1]- Stochastic Gradient Descent
+[1]- Momentum
+[1]- Learning rates
+[1]- Adaptive Learning rates
+[1]- Adam 
+[2]- AdaBoost
+[2]- Gradient Boost
+[2]- XG Boost
+
+ 
+
+Section: Deep Learning - Preprocessing
+[1]- Types of preprocessing
+[1]- Standardization
+[1]- Preprocessing categorical data
+[1]- Binary and one hot encoding
+
+ 
+
+Section: Deep Neural Networks
+[4]- Convolutional Neural Networks
+[4]- Recurrent Neural Networks
+[4]- LSTM
+[4]- Word Embedding and Word2Vec
+- Natural Language Processing
+- Autoencoders
+- Transfer Learning
+- Q Learning
+- Deep Q Learning
+= Reinforcement learning
+- Generative Adversarial Networks
+
+ 
+
+
+Section: Enterprise Grade Machine Learning
+- Hadoop
+- Kubernetes
+- AWS Sage Maker
+- Distributed and parallel computing
+
+ 
+
+Resources:
+
+ 
+
+1. Udemy: The Data Science Course: Complete Data Science Bootcamp (https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/learn/lecture/14241878?start=0#overview)
+2. YouTube: StatQuest: Histograms (https://youtube.com/playlist?list=PLblh5JKOoLUJUNlfvCNhJMNjNNpt5ljcR)
+3. YouTube: StatQust: Support Vector Machines (https://youtube.com/playlist?list=PLblh5JKOoLUL3IJ4-yor0HzkqDQ3JmJkc)
+4. YouTube: StatQuest: Machine Learning (https://youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
+5. YouTube: 3Blue1Brown: Binomial Distribution (https://youtube.com/playlist?list=PLZHQObOWTQDOjmo3Y6ADm0ScWAlEXf-fp)
+6. YouTube: 3Blue1Brown: Essence of linear Algebra (https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+7. YouTube: 3Blue1Brown: Essence of Calculus (https://youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+8. YouTube: 3Blue1Brown: Neural Networks (https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
